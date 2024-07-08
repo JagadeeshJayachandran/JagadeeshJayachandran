@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JagadeeshJayachandran
 - 👀 I’m interested in software testing, coding and teaching people
-- 🌱 I’m currently learning CI/CD using Jenkins, Apache tom cat, EC2 instances
+- 🌱 I’m currently learning GCP
 - 💞️ I’m looking to collaborate on test automation
 - 📫 You can reach me at j.jagadeesh.1989@gmail.com
 
